@@ -10,7 +10,7 @@
 ···
 ```
 
-[标题示例.png](https://github.com/XiaoPb/blogs/blob/master/md语法规则/doc/1.png)
+![标题示例.png](https://github.com/XiaoPb/blogs/blob/master/md语法规则/doc/1.png)
 
 ## 二. 列表
 
@@ -41,6 +41,6 @@
 
 
 
-[无序列表.png](https://github.com/XiaoPb/blogs/blob/master/md语法规则/doc/2.png)[有序列表.png](https://github.com/XiaoPb/blogs/blob/master/md语法规则/doc/3.png)
+![无序列表.png](https://github.com/XiaoPb/blogs/blob/master/md语法规则/doc/2.png)![有序列表.png](https://github.com/XiaoPb/blogs/blob/master/md语法规则/doc/3.png)
 
 

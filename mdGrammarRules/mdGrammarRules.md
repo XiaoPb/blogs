@@ -12,9 +12,10 @@
 ```
 <table>
 	<tr>
-        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/1.png" width="200px;"/><br /><sub><b>标题示例</b></sub></a>
+        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/1.png"/><br /><sub><b>标题示例</b></sub></a>
 	</tr>
 </table>
+
 ## 二. 列表
 
 ### 无序列表 ###
@@ -43,10 +44,11 @@
 ```
 <table>
 	<tr>
-        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/2.png" width="100px;"/><br /><sub><b>无序列表</b></sub></a>
-        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/3.png" width="100px;"/><br /><sub><b>有序列表</b></sub></a>
+        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/2.png"/><br /><sub><b>无序列表</b></sub></a>
+        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/3.png"/><br /><sub><b>有序列表</b></sub></a>
 	</tr>
 </table>
+
 ### 列表嵌套 ###
 
 ```
@@ -62,9 +64,10 @@
 ```
 <table>
 	<tr>
-        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/4.png" width="100px;"/><br /><sub><b>列表嵌套</b></sub></a>
+        <td align="center"><a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules"><img src="doc/4.png"/><br /><sub><b>列表嵌套</b></sub></a>
 	</tr>
 </table>
+
 ## 三. 图片 ##
 
 ### md语法 ###
@@ -73,9 +76,9 @@
 
    例子：``` ![GitHub](https://github.com/XiaoPb/blogs/blob/master/mdGrammarRules/doc/github.jpg?raw=true) ```
 
-   效果如下：
+<p align="left"><font color=red>结果如下：</font></p>
 
-   ![古风美图](https://github.com/XiaoPb/blogs/blob/master/mdGrammarRules/doc/github.jpg?raw=true)
+   ![GitHub](https://github.com/XiaoPb/blogs/blob/master/mdGrammarRules/doc/github.jpg?raw=true)
 
 2. html方式
 
@@ -86,24 +89,25 @@
           <!-- 图片居中 -->
           <a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules">
           <!-- 图片Git项目地址 -->
-          <img src="doc/github.jpg" width="100px;"/>
-          <!-- 图片在项目的具体地址 --><!-- 图片宽度 -->
+          <img src="doc/github.jpg"/>
+          <!-- 图片在项目的具体地址 -->
           <br /><sub><b>GitHub</b></sub>
           <!-- 图片标识 -->
           </a>
    	</tr>
    </table>
    ```
-
+<p align="left"><font color=red>结果如下：</font></p>
    <table>
    	<tr>
           <td align="center">
           <a href="https://github.com/XiaoPb/blogs/tree/master/mdGrammarRules">
-          <img src="doc/github.jpg" width="100px;"/>
+          <img src="doc/github.jpg"/>
           <br /><sub><b>GitHub</b></sub>
           </a>
    	</tr>
    </table>
+
 
 
 ## 四. 列表 ##
@@ -118,7 +122,7 @@
 
 <p align="left"><font color=red>结果如下：</font></p>
 
-<p align="center"><font size=18pix>2019-2020-2 课程表</font></p>
+<p align="center"><font size=36pix>2019-2020-2 课程表</font></p>
 
 |节次|星期一|星期二|星期三|星期四|星期五|星期六|星期日|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|

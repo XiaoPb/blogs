@@ -76,7 +76,7 @@
 
    例子：``` ![GitHub](https://github.com/XiaoPb/blogs/blob/master/mdGrammarRules/doc/github.jpg?raw=true) ```
 
-<p align="left"><font color=red>结果如下：</font></p>
+<p align="left"><font color="red">结果如下：</font></p>
 
    ![GitHub](https://github.com/XiaoPb/blogs/blob/master/mdGrammarRules/doc/github.jpg?raw=true)
 
@@ -97,7 +97,7 @@
    	</tr>
    </table>
    ```
-<p align="left"><font color=red>结果如下：</font></p>
+<p align="left"><font color="red">结果如下：</font></p>
    <table>
    	<tr>
           <td align="center">
@@ -120,9 +120,9 @@
 |第5、6节|信号与系统分析B(3-16)|专业英语(测控)(1-8)|信号与系统分析B(3-16)|专业英语(测控)(1-8)|电子工程训练2(3-6)|电子工程训练2(3-5)|电子工程训练2(3-5)|
 ```
 
-<p align="left"><font color=red>结果如下：</font></p>
+<p align="left"><font color="red">结果如下：</font></p>
 
-<p align="center"><font size=36pix>2019-2020-2 课程表</font></p>
+<p align="center"><font size="72px;">2019-2020-2 课程表</font></p>
 
 |节次|星期一|星期二|星期三|星期四|星期五|星期六|星期日|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -130,7 +130,7 @@
 |第3、4节|||非电量检测技术(4-12)||非电量检测技术(4-11)|电子工程训练2(3-5)|电子工程训练2(3-5)|
 |第5、6节|信号与系统分析B(3-16)|专业英语(测控)(1-8)|信号与系统分析B(3-16)|专业英语(测控)(1-8)|电子工程训练2(3-6)|电子工程训练2(3-5)|电子工程训练2(3-5)|
 
-<p align="left"><font color=red>简单示例：</font></p>
+<p align="left"><font color="red">简单示例：</font></p>
 
 ```
 |Head|Head|Head|
@@ -138,7 +138,7 @@
 |Left|Center|Right|
 |Left|Center|Right|
 ```
-<p align="left"><font color=red>结果如下：</font></p>
+<p align="left"><font color="red">结果如下：</font></p>
 
 | Head |  Head  |  Head |
 | :--- | :----: | ----: |
